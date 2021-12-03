@@ -18,3 +18,5 @@ const getID_interval=setInterval(() => {
 
 
 console.log(ID);
+console.log(ID);
+console.log(ID);
