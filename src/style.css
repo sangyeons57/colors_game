@@ -1,0 +1,6 @@
+body{
+	margin: 0px;
+
+	/*마우스 스크롤 막음*/
+	overflow: hidden;
+}
